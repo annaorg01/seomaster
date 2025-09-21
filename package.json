@@ -1,0 +1,17 @@
+{
+  "name": "seomaster",
+  "version": "1.0.0",
+  "description": "SEO optimization tool for Netlify deployment",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build process needed for static site'",
+    "dev": "echo 'Open index.html in browser'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": ["seo", "netlify", "static-site"],
+  "author": "SEO Master",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

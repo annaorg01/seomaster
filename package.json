@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "build": "echo 'No build process needed for static site'",
-    "dev": "echo 'Open index.html in browser'",
+    "dev": "python3 -m http.server 3000",
     "test": "echo 'No tests configured'"
   },
   "keywords": ["seo", "netlify", "static-site"],
